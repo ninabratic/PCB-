@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=TUNDRA.SchDoc
+Record=SheetSymbol|SourceDocument=TUNDRA.SchDoc|Designator=U_Buster_Controller|SchDesignator=U_Buster_Controller|FileName=Buster_Controller.SchDoc|SymbolType=Normal|RawFileName=Buster_Controller.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TUNDRA.SchDoc|Designator=U_CPU|SchDesignator=U_CPU|FileName=CPU.SchDoc|SymbolType=Normal|RawFileName=CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TUNDRA.SchDoc|Designator=U_Power_supply|SchDesignator=U_Power_supply|FileName=Power_supply.SchDoc|SymbolType=Normal|RawFileName=Power_supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
